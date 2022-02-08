@@ -1,0 +1,1 @@
+pierwsza gotowa wersja projektu, przed zmianą koncepcyjną - potrzeba będzie stworzyć widoczny panel dla ludzi którzy pomagają zamiast panelu zbiórki. W związku z tym, że nie każda zbiórka pomaga w edukacji dzieci, trzeba będzie też zmienić ten napis na lewej :)
