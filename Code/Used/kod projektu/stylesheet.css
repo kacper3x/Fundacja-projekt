@@ -1,0 +1,133 @@
+#index_inputform_ile-potrzebujesz
+{
+    min-width: 150px;
+}
+
+a:link
+{
+    text-decoration: none;
+    color: black;
+}
+
+.carousel-item
+{
+display: inline-flexbox;
+
+}
+
+body
+{
+    background-image: url(img/background/bg-candidates/white-waves/white-waves/white-waves.png);
+    
+}
+
+.navbar
+{
+    background-image: url(img/background/herringbone/herringbone/herringbone.png) ;
+}
+
+.footer
+{
+    background-image: url(img/background/herringbone/herringbone/herringbone.png) ;
+}
+
+#logo
+{   
+    font-family: 'Nunito', sans-serif;
+}
+
+.link-dark
+{
+    font-family: 'Grandstander', cursive;
+}
+
+.handf
+{
+    background-image: url(img/background/bg-candidates/white-waves/white-waves/white-waves.png);
+}
+
+.card-zbiorka
+{
+    background-image: url(img/background/bg-candidates/white-waves/white-waves/white-waves.png);
+    transition: all 0.2s ease-in-out;
+
+}
+
+.card-zbiorka:hover
+{
+    transform: scale(1.025);
+}
+
+.card
+{
+    background-image: url(img/background/bg-candidates/white-waves/white-waves/white-waves.png);    
+}
+
+.btn
+{
+    transition: all 0.2s ease-in-out;
+}
+
+.btn:hover
+{
+    transform: scale(1.5);    
+}
+
+#card-container3 
+{
+    float:left;
+    width:100%;
+    background:green;
+    overflow:hidden;
+    position:relative;
+}
+
+#card-container2 
+{
+    float:left;
+    width:100%;
+    background:yellow;
+    position:relative;
+    right:30%;
+}
+
+#card-container1 
+{
+    float:left;
+    width:100%;
+    background:red;
+    position:relative;
+    right:40%;
+}
+
+#card-col1 
+{
+    float:left;
+    width:26%;
+    position:relative;
+    left:72%;
+    overflow:hidden;
+}
+
+#card-col2 
+{
+    float:left;
+    width:36%;
+    position:relative;
+    left:76%;
+    overflow:hidden;
+}
+
+#card-col3 
+{
+    float:left;
+    width:26%;
+    position:relative;
+    left:80%;
+    overflow:hidden;
+}
+
+.uwu
+{
+  
+}
